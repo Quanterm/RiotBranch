@@ -160,3 +160,4 @@ https://www.riot-os.org
 [wiki-link]: https://github.com/RIOT-OS/RIOT/wiki
 [hil-ci-link]: https://hil.riot-os.org/results/nightly/latest/overview
 [hil-ci-badge]: https://img.shields.io/badge/CI-HiL-blue
+#RiotThingy
