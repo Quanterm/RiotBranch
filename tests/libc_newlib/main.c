@@ -84,6 +84,7 @@ static Test *tests_newlib(void)
 
 int main(void)
 {
+    puts("Hello this is a test on the Thingy9160");
     puts("Newlib/nano test");
     TESTS_START();
     TESTS_RUN(tests_newlib());

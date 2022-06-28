@@ -14,7 +14,7 @@
  * @brief       Board initialization for the nRF9160DK
  *
  * @author      Dylan Laduranty <dylan.laduranty@mesotic.com>
- *
+ * @contributor Thanh-Viet Nguyen 
  * @}
  */
 

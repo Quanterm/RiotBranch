@@ -77,6 +77,7 @@ int main(void)
 #endif
 
     puts("On-board LED test\n");
+    printf("Hello");
     /* cppcheck-suppress knownConditionTrueFalse
      * (reason: board-dependent ifdefs) */
     if (numof == 0) {
